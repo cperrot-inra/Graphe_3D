@@ -1,4 +1,4 @@
-# Graphe
+# Graphe 3D
 
 ### Visualisation sous forme de graphique en 3D de mesures issues de cartographies saptiales 2D
 
