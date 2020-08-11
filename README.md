@@ -15,7 +15,7 @@ Cet outil permet d'afficher en quelques clics les graphiques en 3D des données o
 * Fichiers de tests disponibles dans **/Exemples donnees**
 
 ## Programmation
-* Labview 2013
+* Labview 2015
 
 ## Auteur
 * **Cédric PERROT** - INRA - (https://github.com/cperrot-inra)
